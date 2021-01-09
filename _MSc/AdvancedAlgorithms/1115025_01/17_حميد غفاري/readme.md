@@ -9,6 +9,12 @@
 - [Certificates](https://github.com/hamidghaffarii/Certificates)
 - [GitHub](https://github.com/hamidghaffarii)
 --------------
+# تمرین ها
+1. [G-A02]
+    1. [ّFibonacci Heaps](https://www.aparat.com/v/ruUwZ)
+    1. [Binary search tree](https://www.aparat.com/v/lyB7k)
+    1. [Convex-hull](https://github.com/hamidghaffarii/Convex_hull)
+    ------------
 ## سیاهه ارزشیابی درس
 1. **فعالیت های مشترک همه دانشجویان**
     1. ساخت اکانت گیت هاب
